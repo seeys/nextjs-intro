@@ -4,11 +4,7 @@ export default function Home() {
     
     return (
         <div>
-            <NavBar/>
-            <h1 className=""> Hi </h1>
-            <style jsx>{`
-                
-            `}</style>
+            <h1> Hi </h1>
         </div>
     );
 }
